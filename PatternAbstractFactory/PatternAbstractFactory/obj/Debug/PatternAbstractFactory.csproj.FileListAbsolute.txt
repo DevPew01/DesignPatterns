@@ -1,0 +1,14 @@
+D:\Ераносян РПО-17-2\PatternAbstractFactory\PatternAbstractFactory\obj\Debug\PatternAbstractFactory.csprojAssemblyReference.cache
+D:\Ераносян РПО-17-2\PatternAbstractFactory\PatternAbstractFactory\obj\Debug\PatternAbstractFactory.csproj.CoreCompileInputs.cache
+D:\Ераносян РПО-17-2\PatternAbstractFactory\PatternAbstractFactory\bin\Debug\PatternAbstractFactory.exe.config
+D:\Ераносян РПО-17-2\PatternAbstractFactory\PatternAbstractFactory\bin\Debug\PatternAbstractFactory.exe
+D:\Ераносян РПО-17-2\PatternAbstractFactory\PatternAbstractFactory\bin\Debug\PatternAbstractFactory.pdb
+D:\Ераносян РПО-17-2\PatternAbstractFactory\PatternAbstractFactory\obj\Debug\PatternAbstractFactory.exe
+D:\Ераносян РПО-17-2\PatternAbstractFactory\PatternAbstractFactory\obj\Debug\PatternAbstractFactory.pdb
+C:\Users\George\Desktop\C#\PatternAbstractFactory\PatternAbstractFactory\bin\Debug\PatternAbstractFactory.exe.config
+C:\Users\George\Desktop\C#\PatternAbstractFactory\PatternAbstractFactory\bin\Debug\PatternAbstractFactory.exe
+C:\Users\George\Desktop\C#\PatternAbstractFactory\PatternAbstractFactory\bin\Debug\PatternAbstractFactory.pdb
+C:\Users\George\Desktop\C#\PatternAbstractFactory\PatternAbstractFactory\obj\Debug\PatternAbstractFactory.csprojResolveAssemblyReference.cache
+C:\Users\George\Desktop\C#\PatternAbstractFactory\PatternAbstractFactory\obj\Debug\PatternAbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\George\Desktop\C#\PatternAbstractFactory\PatternAbstractFactory\obj\Debug\PatternAbstractFactory.exe
+C:\Users\George\Desktop\C#\PatternAbstractFactory\PatternAbstractFactory\obj\Debug\PatternAbstractFactory.pdb
